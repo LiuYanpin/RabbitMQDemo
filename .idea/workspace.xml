@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c82be4ae-01e3-4035-a824-a5fd0cbef5a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/demo2/SecondWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/demo3/EmitLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/demo3/FirstReceiveLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/demo3/SecondReceiveLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/demo3/ThirdReceiveLogs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/example/demo2/Worker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/demo2/Newtask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/demo2/Newtask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/demo2/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/demo2/FirstWorker.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -68,15 +68,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/example/demo1/Send.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -88,14 +79,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/example/demo2/Newtask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
+            <state relative-caret-position="170">
               <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/example/demo3/SecondReceiveLogs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/example/demo3/ThirdReceiveLogs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/example/demo3/EmitLog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/example/demo3/FirstReceiveLogs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -155,6 +185,10 @@
         <option value="$PROJECT_DIR$/src/main/java/example/demo2/FirstWorker.java" />
         <option value="$PROJECT_DIR$/src/main/java/example/demo2/SecondWorker.java" />
         <option value="$PROJECT_DIR$/src/main/java/example/demo2/Newtask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/demo3/ReceiveLogs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/demo3/SecondReceiveLogs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/demo3/ThirdReceiveLogs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/demo3/EmitLog.java" />
       </list>
     </option>
   </component>
@@ -214,6 +248,15 @@
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="demo2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="demo3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -225,13 +268,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545020254599" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545027019058" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example.demo3" />
       <recent name="example.demo2" />
     </key>
   </component>
@@ -247,14 +291,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Newtask">
-    <configuration name="FirstWorker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.demo2.FirstWorker" />
+  <component name="RunManager" selected="Application.EmitLog">
+    <configuration name="EmitLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.demo3.EmitLog" />
       <module name="com.thoughtworks.beijing.RabbitMQ.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.demo2.*" />
+          <option name="PATTERN" value="example.demo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstReceiveLogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.demo3.FirstReceiveLogs" />
+      <module name="com.thoughtworks.beijing.RabbitMQ.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.demo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,13 +334,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.demo1.Recv" />
+    <configuration name="SecondReceiveLogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.demo3.SecondReceiveLogs" />
       <module name="com.thoughtworks.beijing.RabbitMQ.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.demo1.*" />
+          <option name="PATTERN" value="example.demo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,27 +348,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondWorker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.demo2.SecondWorker" />
+    <configuration name="ThirdReceiveLogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.demo3.ThirdReceiveLogs" />
       <module name="com.thoughtworks.beijing.RabbitMQ.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.demo2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Send" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.demo1.Send" />
-      <module name="com.thoughtworks.beijing.RabbitMQ.main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.demo1.*" />
+          <option name="PATTERN" value="example.demo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,11 +384,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmitLog" />
+        <item itemvalue="Application.ThirdReceiveLogs" />
+        <item itemvalue="Application.SecondReceiveLogs" />
+        <item itemvalue="Application.FirstReceiveLogs" />
         <item itemvalue="Application.Newtask" />
-        <item itemvalue="Application.SecondWorker" />
-        <item itemvalue="Application.FirstWorker" />
-        <item itemvalue="Application.Send" />
-        <item itemvalue="Application.Recv" />
       </list>
     </recent_temporary>
   </component>
@@ -362,18 +406,18 @@
       <workItem from="1543991145173" duration="1374000" />
       <workItem from="1544102681748" duration="3166000" />
       <workItem from="1544608892669" duration="606000" />
-      <workItem from="1545014824254" duration="4788000" />
+      <workItem from="1545014824254" duration="6607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11172000" />
+    <option name="totallyTimeSpent" value="12991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="739" y="23" width="701" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19878604" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19878604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -382,7 +426,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40702212" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40702212" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -528,8 +572,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/example/demo2/Newtask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
+        <state relative-caret-position="170">
           <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/demo3/FirstReceiveLogs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/demo3/SecondReceiveLogs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/demo3/ThirdReceiveLogs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/demo3/EmitLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
