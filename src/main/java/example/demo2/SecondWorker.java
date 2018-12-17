@@ -5,7 +5,7 @@ import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.DeliverCallback;
 
-public class Worker {
+public class SecondWorker {
     public static final String TASK_QUEUE_NAME = "task_queue";
 
     public static void main(String[] args) throws Exception {

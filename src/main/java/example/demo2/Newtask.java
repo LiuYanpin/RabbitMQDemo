@@ -16,8 +16,8 @@ public class Newtask {
             ){
             channel.queueDeclare(TASK_QUEUE_NAME, true, false, false, null);
 
-            for (int i = 0; i < 10; i++) {
-                String message = "Message " + i;
+            for (int i = 0; i < 100; i++) {
+                String message = "Message " + i + ".";
                 channel.basicPublish("", TASK_QUEUE_NAME, MessageProperties.PERSISTENT_TEXT_PLAIN, message.getBytes("UTF-8"));
                 System.out.println("[x] Sent '" + message + "'");
             }
