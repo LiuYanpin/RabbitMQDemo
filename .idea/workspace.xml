@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c82be4ae-01e3-4035-a824-a5fd0cbef5a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial6/RPCClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/javaversion/tutorial5/EmitLogTopic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/javaversion/tutorial5/EmitLogTopic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/javaversion/tutorial5/ReceiveLogsTopic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/javaversion/tutorial5/ReceiveLogsTopic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -56,18 +53,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial2/Newtask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial3/SecondReceiveLogs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -97,13 +82,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="323">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial6/RPCClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+            <state relative-caret-position="85">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -193,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial4/SecondReceiveLogsDirect.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial6/RPCClient.java" />
       </list>
     </option>
   </component>
@@ -243,15 +243,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javaversion" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMQDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaversion" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial5" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -263,7 +254,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545034761559" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545038621519" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -402,18 +393,17 @@
       <workItem from="1543991145173" duration="1374000" />
       <workItem from="1544102681748" duration="3166000" />
       <workItem from="1544608892669" duration="606000" />
-      <workItem from="1545014824254" duration="12806000" />
+      <workItem from="1545014824254" duration="14929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19190000" />
+    <option name="totallyTimeSpent" value="21313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="739" y="23" width="701" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19878604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19878604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -422,7 +412,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40702212" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40702212" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -647,17 +637,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        <state relative-caret-position="85">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="323">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial6/RPCClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
           </folding>
         </state>
       </provider>
