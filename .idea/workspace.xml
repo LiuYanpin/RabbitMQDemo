@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c82be4ae-01e3-4035-a824-a5fd0cbef5a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial4/EmitLogDirect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial4/FirstReceiveLogsDirect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial4/SecondReceiveLogsDirect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial4/ThirdReceiveLogsDirect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/example/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/example/demo1/Recv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/example/demo1/Send.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/example/demo2/FirstWorker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/example/demo2/Newtask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/example/demo2/SecondWorker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/example/demo3/EmitLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/example/demo3/FirstReceiveLogs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/example/demo3/SecondReceiveLogs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/example/demo3/ThirdReceiveLogs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/demo1/Recv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial1/Recv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/demo1/Send.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial1/Send.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/demo2/FirstWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial2/FirstWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/demo2/Newtask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial2/Newtask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/demo2/SecondWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial2/SecondWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/demo3/EmitLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial3/EmitLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/demo3/FirstReceiveLogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial3/FirstReceiveLogs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/demo3/SecondReceiveLogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial3/SecondReceiveLogs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/demo3/ThirdReceiveLogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial3/ThirdReceiveLogs.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -96,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial4/EmitLogDirect.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
@@ -111,8 +89,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial4/SecondReceiveLogsDirect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+            <state relative-caret-position="136">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -129,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial4/FirstReceiveLogsDirect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="106">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -190,6 +189,8 @@
         <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial4/EmitLogDirect.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial4/ThirdReceiveLogsDirect.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial4/SecondReceiveLogsDirect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java" />
       </list>
     </option>
   </component>
@@ -247,7 +248,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javaversion" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial4" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -260,7 +261,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545030465448" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545033917014" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -284,21 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EmitLogDirect">
-    <configuration name="EmitLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaversion.tutorial3.EmitLog" />
-      <module name="com.thoughtworks.beijing.RabbitMQ.main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaversion.tutorial3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EmitLogTopic">
     <configuration name="EmitLogDirect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaversion.tutorial4.EmitLogDirect" />
       <module name="com.thoughtworks.beijing.RabbitMQ.main" />
@@ -313,13 +300,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstReceiveLogsDirect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaversion.tutorial4.FirstReceiveLogsDirect" />
+    <configuration name="EmitLogTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaversion.tutorial5.EmitLogTopic" />
       <module name="com.thoughtworks.beijing.RabbitMQ.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaversion.tutorial4.*" />
+          <option name="PATTERN" value="javaversion.tutorial5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiveLogsTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaversion.tutorial5.ReceiveLogsTopic" />
+      <module name="com.thoughtworks.beijing.RabbitMQ.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaversion.tutorial5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,11 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmitLogTopic" />
+        <item itemvalue="Application.ReceiveLogsTopic" />
         <item itemvalue="Application.EmitLogDirect" />
         <item itemvalue="Application.ThirdReceiveLogsDirect" />
         <item itemvalue="Application.SecondReceiveLogsDirect" />
-        <item itemvalue="Application.FirstReceiveLogsDirect" />
-        <item itemvalue="Application.EmitLog" />
       </list>
     </recent_temporary>
   </component>
@@ -399,12 +400,12 @@
       <workItem from="1543991145173" duration="1374000" />
       <workItem from="1544102681748" duration="3166000" />
       <workItem from="1544608892669" duration="606000" />
-      <workItem from="1545014824254" duration="9875000" />
+      <workItem from="1545014824254" duration="12019000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16259000" />
+    <option name="totallyTimeSpent" value="18403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="739" y="23" width="701" height="877" extended-state="0" />
@@ -419,14 +420,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40702212" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40702212" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Build" order="8" weight="0.32899868" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.7269181" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.0650195" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -611,24 +612,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial4/FirstReceiveLogsDirect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial4/ThirdReceiveLogsDirect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial4/SecondReceiveLogsDirect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -639,6 +626,37 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial4/FirstReceiveLogsDirect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial4/SecondReceiveLogsDirect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
