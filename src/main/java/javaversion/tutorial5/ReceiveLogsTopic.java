@@ -16,8 +16,8 @@ public class ReceiveLogsTopic {
         System.out.println("queueName "+ queueName);
         System.out.println("Usage: ReceiveLogsTopic ");
 
-        String bindingKey = "kern.*";
-        channel.queueBind(queueName, EXCHANGE_NAME, bindingKey);
+        channel.queueBind(queueName, EXCHANGE_NAME, "kern.*");
+        channel.queueBind(queueName, EXCHANGE_NAME, "*.alice");
 
         System.out.println(" [*] Waiting for messages.");
 

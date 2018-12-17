@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c82be4ae-01e3-4035-a824-a5fd0cbef5a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/javaversion/tutorial5/EmitLogTopic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/javaversion/tutorial5/EmitLogTopic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/javaversion/tutorial5/ReceiveLogsTopic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/javaversion/tutorial5/ReceiveLogsTopic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -95,11 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="66">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,11 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="182">
+              <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -189,8 +191,8 @@
         <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial4/EmitLogDirect.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial4/ThirdReceiveLogsDirect.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial4/SecondReceiveLogsDirect.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java" />
       </list>
     </option>
   </component>
@@ -261,7 +263,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545033917014" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545034761559" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -400,12 +402,12 @@
       <workItem from="1543991145173" duration="1374000" />
       <workItem from="1544102681748" duration="3166000" />
       <workItem from="1544608892669" duration="606000" />
-      <workItem from="1545014824254" duration="12019000" />
+      <workItem from="1545014824254" duration="12806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18403000" />
+    <option name="totallyTimeSpent" value="19190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="739" y="23" width="701" height="877" extended-state="0" />
@@ -420,14 +422,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40702212" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40702212" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Build" order="8" weight="0.32899868" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.0650195" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37581274" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -643,20 +645,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="182">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/ReceiveLogsTopic.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaversion/tutorial5/EmitLogTopic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="66">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

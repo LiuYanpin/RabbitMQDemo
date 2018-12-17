@@ -16,11 +16,21 @@ public class EmitLogTopic {
 
             channel.exchangeDeclare(EXCHANGE_NAME, "topic");
 
-            String routingKey = "kern.alice";
-            String message = "Hello World";
+            for (int i = 0; i < 10; i++) {
+                String routingKey = "kern.david";
+                String message = "Message---" + i;
 
-            channel.basicPublish(EXCHANGE_NAME, routingKey, null, message.getBytes("UTF-8"));
-            System.out.println(" [x] Sent '" + routingKey + "':'" + message + "'");
+                channel.basicPublish(EXCHANGE_NAME, routingKey, null, message.getBytes("UTF-8"));
+                System.out.println(" [x] Sent '" + routingKey + "':'" + message + "'");
+            }
+
+            for (int i = 10; i < 20; i++) {
+                String routingKey = "bobo.alice";
+                String message = "Message---" + i;
+
+                channel.basicPublish(EXCHANGE_NAME, routingKey, null, message.getBytes("UTF-8"));
+                System.out.println(" [x] Sent '" + routingKey + "':'" + message + "'");
+            }
         }
     }
 }
